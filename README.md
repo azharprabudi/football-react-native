@@ -21,4 +21,5 @@ And to run this project you can follow some steps :
 Open terminal
 Enter you directory project
 type "react-native run-android" (remember your emulator or real device already connected)
+
 Hi, I am Azhar Prabudi who love the code and problem solving :)
