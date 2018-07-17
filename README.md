@@ -18,8 +18,8 @@ If you already have the api key, you can fill that in some module.
 
 And to run this project you can follow some steps :
 
-Open terminal
-Enter you directory project
-type "react-native run-android" (remember your emulator or real device already connected)
+1. Open terminal
+2. Enter you directory project
+3. type "react-native run-android" (remember your emulator or real device already connected)
 
 Hi, I am Azhar Prabudi who love the code and problem solving :)
