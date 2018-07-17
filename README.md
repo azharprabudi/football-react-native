@@ -1,12 +1,12 @@
 This project especially i used for increase my skill in react and redux. In this app you also need some enviroment like :
 
-Node JS Version >= 6
-JDK 1.8 (Recommended)
-Android Studio (SDK 22-26)
-Your favorite terminal
-React Native CLI
-Emulator android (You can used the real device just enabled your android debugging in development mode)
-Some coffee to make your eye on and keep spirit for that
+1. Node JS Version >= 6
+2. JDK 1.8 (Recommended)
+3. Android Studio (SDK 22-26)
+4. Your favorite terminal
+5. React Native CLI
+6. Emulator android (You can used the real device just enabled your android debugging in development mode)
+7. Some coffee to make your eye on and keep spirit for that
 
 But in this application i made, i am using api from football-data.org, so thank you so much for football-data.org to give me free API. But so sorry for the API KEY, i cant share with u because there a limitation with that, but you can request the api key from their official website :
 
